@@ -1,5 +1,8 @@
-### Hi there 👋
+## Boas Vindas!!
+Me chamo Thiago e atualmente curso desenvolvimento web na Trybe, sou iniciante na area e aprecio seu feedback, busco sempre aprimorar minhas habilidades como dev e pessoa.:book:
+## Plataformas e ferramentas:
 
+ 
 <!--
 **Thiag0AH/Thiag0AH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
